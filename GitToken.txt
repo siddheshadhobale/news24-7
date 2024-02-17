@@ -1,0 +1,2 @@
+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
+$ git remote add origin https://github.com/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/news24-7.git
